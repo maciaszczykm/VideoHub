@@ -2,7 +2,7 @@ package com.videohub.model;
 
 import java.util.Date;
 
-public class Video {
+public class Video implements Multimedia {
 
     private Long id = null;
     private String title = null;
