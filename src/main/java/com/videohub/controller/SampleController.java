@@ -19,7 +19,7 @@ public class SampleController {
         video.setId(Long.valueOf(1));
         video.setPublicationDate(new Date());
         video.setTitle("Hello World!");
-        video.setDescription("My first video");
+        video.setDescription("My first  video here!");
         video.setContent(new Content());
         return video.toString();
     }
