@@ -1,8 +1,12 @@
 package com.videohub.controller;
 
+import com.videohub.model.Content;
+import com.videohub.model.Video;
 import org.springframework.boot.*;
 import org.springframework.boot.autoconfigure.*;
 import org.springframework.web.bind.annotation.*;
+
+import java.util.Date;
 
 @RestController
 @EnableAutoConfiguration
@@ -11,7 +15,13 @@ public class SampleController {
     @RequestMapping("/")
     @ResponseBody
     String home() {
-        return "Welcome on VideoHub!";
+        Video video = new Video();
+        video.setId(Long.valueOf(1));
+        video.setPublicationDate(new Date());
+        video.setTitle("Hello World!");
+        video.setDescription("My first video");
+        video.setContent(new Content());
+        return video.toString();
     }
 
     public static void main(String[] args) throws Exception {
