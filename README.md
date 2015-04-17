@@ -3,5 +3,3 @@ Video-sharing webservice
 
 ## Current build status
 [![Build status](https://travis-ci.org/maciaszczykm/VideoHub.svg)](https://travis-ci.org/maciaszczykm/VideoHub)
-
-Current build status is provided by [Travis CI](https://travis-ci.org/).

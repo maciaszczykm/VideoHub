@@ -12,11 +12,11 @@ import java.util.Date;
 @EnableAutoConfiguration
 public class SampleController {
 
-    @RequestMapping("/")
+    @RequestMapping("/sample")
     @ResponseBody
     String home() {
         Video video = new Video();
-        video.setId(Long.valueOf(1));
+        video.setId((long) 1);
         video.setPublicationDate(new Date());
         video.setTitle("Hello World!");
         video.setDescription("My first  video here!");
