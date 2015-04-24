@@ -1,7 +1,1 @@
-# Directories
 target/*
-
-# File types
-*.class
-*.jar
-*.psd
