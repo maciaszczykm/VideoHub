@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8b87c7e-87b2-44ee-bc39-76a7810b5974" name="Default" comment="Added navibar">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Marcin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/shader.js" />
+    <list default="true" id="f8b87c7e-87b2-44ee-bc39-76a7810b5974" name="Default" comment="Setup flat screen shader">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -38,8 +36,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.4044751" vertical-offset="0" max-vertical-offset="1241">
-              <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.6729776" vertical-offset="0" max-vertical-offset="1513">
+              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -641,7 +639,7 @@
       <workItem from="1429370167129" duration="3175000" />
       <workItem from="1429887834075" duration="2536000" />
       <workItem from="1429948656385" duration="8110000" />
-      <workItem from="1430039745169" duration="4780000" />
+      <workItem from="1430039745169" duration="6621000" />
     </task>
     <task id="LOCAL-00001" summary="Added JRebel configuration">
       <created>1429037823623</created>
@@ -781,11 +779,17 @@
       <option name="project" value="LOCAL" />
       <updated>1429973042555</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Setup flat screen shader">
+      <created>1430053075770</created>
+      <option name="number" value="00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1430053075770</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48342000" />
+    <option name="totallyTimeSpent" value="50183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -853,7 +857,8 @@
     <MESSAGE value="Removed wro4j" />
     <MESSAGE value="Setup videogular" />
     <MESSAGE value="Added navibar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added navibar" />
+    <MESSAGE value="Setup flat screen shader" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setup flat screen shader" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1252,15 +1257,15 @@
         <state vertical-scroll-proportion="-0.22734761" vertical-offset="8978" max-vertical-offset="20927">
           <caret line="520" column="0" selection-start-line="520" selection-start-column="0" selection-end-line="520" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4044751" vertical-offset="0" max-vertical-offset="1241">
-          <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.6729776" vertical-offset="0" max-vertical-offset="1513">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
           <folding />
         </state>
       </provider>
