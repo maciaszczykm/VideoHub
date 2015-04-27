@@ -1,3 +1,12 @@
+# Ignore output files
 target/*
-.idea/*
+
+# Ignore bower components
 src/main/resources/static/bower_components/*
+
+# Ignore JRebel configuration
+src/main/resources/rebel.xml
+
+# Ignore IntelliJ files
+.idea/*
+*.iml
