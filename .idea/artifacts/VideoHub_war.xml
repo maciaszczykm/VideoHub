@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="VideoHub:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="videohub-dev.war">
-      <element id="artifact" artifact-name="VideoHub:war exploded" />
-    </root>
-  </artifact>
-</component>
