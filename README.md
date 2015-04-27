@@ -1,4 +1,4 @@
-[VideoHub](http://i.imgur.com/4Rcmqxn.png)
+![VideoHub](http://i.imgur.com/4Rcmqxn.png)
 
 ## Running the application
 1. Checkout project from GitHub.
