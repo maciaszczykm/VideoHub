@@ -2,653 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8b87c7e-87b2-44ee-bc39-76a7810b5974" name="Default" comment="Deleted bower_components from repository">
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\artifacts\VideoHub_war.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\artifacts\VideoHub_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\copyright\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\dataSources.ids" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\dataSources.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__antlr_antlr_2_7_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__ch_qos_logback_logback_classic_1_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__ch_qos_logback_logback_core_1_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__com_fasterxml_classmate_1_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_3_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_3_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_3_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_3_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_3_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_3_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_4_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_4_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_3_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_3_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_3_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_4_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_4_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__com_google_guava_guava_16_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__dom4j_dom4j_1_6_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__javax_inject_javax_inject_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__javax_validation_validation_api_1_1_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__junit_junit_4_11.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__junit_junit_4_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_2_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__ognl_ognl_3_0_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_core_7_0_52.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_core_7_0_54.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_core_7_0_57.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_core_8_0_15.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_core_8_0_20.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_el_7_0_52.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_el_7_0_54.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_el_7_0_57.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_el_8_0_15.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_el_8_0_20.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_7_0_52.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_7_0_54.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_7_0_57.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_15.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_20.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_websocket_7_0_57.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_15.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_20.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_tomcat_jdbc_7_0_52.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_apache_tomcat_tomcat_juli_7_0_52.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_aspectj_aspectjrt_1_7_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_aspectj_aspectjweaver_1_7_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_hamcrest_hamcrest_library_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_hibernate_common_hibernate_commons_annotations_4_0_4_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_hibernate_hibernate_core_4_3_1_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_hibernate_hibernate_entitymanager_4_3_1_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_hibernate_hibernate_validator_5_0_3_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_hibernate_hibernate_validator_5_1_3_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_hsqldb_hsqldb_2_3_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_javassist_javassist_3_18_1_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_jboss_jandex_1_1_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_1_1_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_mockito_mockito_core_1_10_19.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_mockito_mockito_core_1_10_8.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_mockito_mockito_core_1_9_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_objenesis_objenesis_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_objenesis_objenesis_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_slf4j_jcl_over_slf4j_1_7_10.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_slf4j_jcl_over_slf4j_1_7_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_slf4j_jcl_over_slf4j_1_7_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_slf4j_jcl_over_slf4j_1_7_8.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_slf4j_jul_to_slf4j_1_7_10.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_slf4j_jul_to_slf4j_1_7_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_slf4j_jul_to_slf4j_1_7_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_slf4j_jul_to_slf4j_1_7_8.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_slf4j_log4j_over_slf4j_1_7_10.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_slf4j_log4j_over_slf4j_1_7_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_slf4j_log4j_over_slf4j_1_7_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_slf4j_log4j_over_slf4j_1_7_8.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_10.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_8.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_1_0_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_1_1_10_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_1_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_1_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_1_2_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_1_2_2_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_autoconfigure_1_0_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_autoconfigure_1_1_10_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_autoconfigure_1_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_autoconfigure_1_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_autoconfigure_1_2_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_autoconfigure_1_2_2_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_1_0_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_1_1_10_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_1_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_1_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_1_2_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_1_2_2_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_aop_1_0_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_0_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_jdbc_1_0_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_logging_1_0_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_logging_1_1_10_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_logging_1_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_logging_1_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_logging_1_2_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_logging_1_2_2_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_security_1_2_2_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_test_1_0_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_test_1_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_test_1_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_test_1_2_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_test_1_2_2_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_1_10_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_tomcat_1_0_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_tomcat_1_1_10_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_tomcat_1_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_tomcat_1_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_tomcat_1_2_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_tomcat_1_2_2_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_web_1_0_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_web_1_1_10_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_web_1_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_web_1_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_web_1_2_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_web_1_2_2_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_data_spring_data_commons_1_7_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_data_spring_data_jpa_1_5_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_security_spring_security_config_3_2_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_security_spring_security_core_3_2_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_security_spring_security_web_3_2_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_aop_4_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_aop_4_0_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_aop_4_0_8_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_aop_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_aop_4_1_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_aop_4_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_aspects_4_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_beans_4_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_beans_4_0_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_beans_4_0_8_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_beans_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_beans_4_1_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_beans_4_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_context_4_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_context_4_0_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_context_4_0_8_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_context_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_context_4_1_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_context_4_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_core_4_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_core_4_0_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_core_4_0_8_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_core_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_core_4_1_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_core_4_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_expression_4_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_expression_4_0_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_expression_4_0_8_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_expression_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_expression_4_1_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_expression_4_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_jdbc_4_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_orm_4_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_test_4_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_test_4_0_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_test_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_test_4_1_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_test_4_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_tx_4_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_web_4_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_web_4_0_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_web_4_0_8_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_web_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_web_4_1_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_web_4_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_webmvc_4_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_webmvc_4_0_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_webmvc_4_0_8_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_webmvc_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_webmvc_4_1_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_springframework_spring_webmvc_4_1_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_thymeleaf_thymeleaf_2_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_thymeleaf_thymeleaf_spring4_2_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_unbescape_unbescape_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_yaml_snakeyaml_1_13.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__org_yaml_snakeyaml_1_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\libraries\Maven__xml_apis_xml_apis_1_0_b2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\rebel_project.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\sqldialects.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\SHA-1\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\SHA-1\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\SHA-1\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\SHA-1\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\SHA-1\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\SHA-1\sha1.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angular-sanitize\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angular-sanitize\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angular-sanitize\angular-sanitize.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angular-sanitize\angular-sanitize.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angular-sanitize\angular-sanitize.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angular-sanitize\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angular-sanitize\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angular-sanitize\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angular\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angular\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angular\angular-csp.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angular\angular.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angular\angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angular\angular.min.js.gzip" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angular\angular.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angular\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angular\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angular\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angularjs\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angularjs\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angularjs\angular-csp.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angularjs\angular.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angularjs\angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angularjs\angular.min.js.gzip" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angularjs\angular.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angularjs\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angularjs\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angularjs\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-adobe.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-baidu.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-chartbeat.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-cnzz.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-debug.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-flurry.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-ga-cordova-google-analytics-plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-ga-cordova.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-ga.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-gtm-cordova.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-gtm.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-hubspot.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-intercom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-kissmetrics.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-localytics.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-loggly.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-marketo.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-mixpanel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-piwik.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-scroll.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-segmentio.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-splunk.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics-woopra.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\dist\angulartics.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\karma.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.adobe.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.baidu.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.chartbeat.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.cnzz.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.core.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.debug.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.flurry.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.ga.cordova-google-analytics-plugin.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.ga.cordova.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.ga.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.gtm.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.hubspot.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.intercom.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.kissmetrics.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.localytics.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.loggly.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.marketo.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.mixpanel.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.piwik.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.scroll.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.segmentio.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.splunk.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\nuget\angular.analytics.woopra.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\adobe-analytics.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\baidu.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\chartbeat.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\cnzz.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\flurry.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\google-analytics.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\google-tag-manager.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\intercom.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\kissmetrics.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\localytics.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\loggly.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\loggly.tracker.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\marketo.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\mixpanel.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\partials\a.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\partials\b.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\partials\c.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\partials\root.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\piwik.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\scroll.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\segmentio.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\splunk.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\samples\woopra.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-adobe.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-baidu.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-chartbeat.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-cnzz.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-debug.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-flurry.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-ga-cordova-google-analytics-plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-ga-cordova.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-ga.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-gtm-cordova.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-gtm.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-hubspot.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-intercom.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-kissmetrics.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-localytics.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-loggly.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-marketo.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-mixpanel.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-piwik.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-scroll.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-segmentio.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-splunk.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics-woopra.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\src\angulartics.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\angulartics\test\angularticsSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\dist\css\bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\dist\css\bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\dist\css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\dist\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\dist\css\bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\dist\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\dist\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\dist\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\dist\js\npm.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\grunt\.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\grunt\bs-commonjs-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\grunt\bs-glyphicons-data-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\grunt\bs-lessdoc-parser.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\grunt\bs-raw-files-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\grunt\configBridge.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\grunt\sauce_browsers.yml" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\js\.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\js\.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\js\affix.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\js\alert.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\js\button.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\js\carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\js\collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\js\dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\js\modal.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\js\popover.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\js\scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\js\tab.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\js\tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\js\transition.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\.csscomb.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\.csslintrc" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\badges.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\button-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\carousel.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\close.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\code.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\component-animations.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\forms.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\glyphicons.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\grid.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\input-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\jumbotron.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\labels.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\media.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\background-variant.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\border-radius.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\center-block.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\clearfix.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\forms.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\gradients.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\grid-framework.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\grid.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\hide-text.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\image.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\labels.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\nav-divider.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\nav-vertical-align.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\opacity.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\panels.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\progress-bar.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\reset-filter.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\resize.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\responsive-visibility.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\size.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\tab-focus.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\table-row.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\text-emphasis.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\text-overflow.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\mixins\vendor-prefixes.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\modals.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\navs.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\normalize.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\pager.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\panels.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\popovers.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\print.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\progress-bars.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\responsive-embed.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\responsive-utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\scaffolding.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\tables.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\theme.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\thumbnails.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\type.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\variables.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\less\wells.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\package.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\bootstrap\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\MIT-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\dist\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\dist\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\dist\jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\ajax\jsonp.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\ajax\load.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\ajax\parseJSON.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\ajax\parseXML.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\ajax\script.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\ajax\var\nonce.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\ajax\var\rquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\ajax\xhr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\attributes.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\attributes\attr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\attributes\classes.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\attributes\prop.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\attributes\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\attributes\val.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\callbacks.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\core.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\core\access.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\core\init.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\core\parseHTML.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\core\ready.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\core\var\rsingleTag.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\css.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\css\addGetHookIf.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\css\curCSS.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\css\defaultDisplay.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\css\hiddenVisibleSelectors.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\css\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\css\swap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\css\var\cssExpand.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\css\var\getStyles.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\css\var\isHidden.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\css\var\rmargin.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\css\var\rnumnonpx.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\data.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\data\Data.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\data\accepts.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\data\var\data_priv.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\data\var\data_user.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\deferred.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\deprecated.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\dimensions.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\effects.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\effects\Tween.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\effects\animatedSelector.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\event.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\event\ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\event\alias.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\event\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\exports\amd.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\exports\global.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\intro.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\manipulation.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\manipulation\_evalUrl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\manipulation\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\manipulation\var\rcheckableType.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\offset.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\outro.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\queue.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\queue\delay.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\selector-native.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\selector-sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\selector.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\serialize.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\sizzle\dist\sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\sizzle\dist\sizzle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\sizzle\dist\sizzle.min.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\traversing.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\traversing\findFilter.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\traversing\var\rneedsContext.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\var\arr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\var\class2type.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\var\concat.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\var\hasOwn.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\var\indexOf.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\var\pnum.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\var\push.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\var\rnotwhite.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\var\slice.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\var\strundefined.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\var\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\var\toString.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\jquery\src\wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-angulartics\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-angulartics\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-angulartics\Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-angulartics\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-angulartics\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-angulartics\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-angulartics\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-angulartics\vg-analytics.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-angulartics\vg-analytics.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-buffering\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-buffering\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-buffering\Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-buffering\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-buffering\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-buffering\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-buffering\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-buffering\vg-buffering.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-buffering\vg-buffering.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-controls\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-controls\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-controls\Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-controls\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-controls\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-controls\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-controls\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-controls\vg-controls.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-controls\vg-controls.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-ima-ads\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-ima-ads\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-ima-ads\Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-ima-ads\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-ima-ads\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-ima-ads\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-ima-ads\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-ima-ads\vg-ima-ads.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-ima-ads\vg-ima-ads.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-overlay-play\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-overlay-play\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-overlay-play\Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-overlay-play\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-overlay-play\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-overlay-play\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-overlay-play\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-overlay-play\vg-overlay-play.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-overlay-play\vg-overlay-play.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-poster\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-poster\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-poster\Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-poster\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-poster\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-poster\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-poster\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-poster\vg-poster.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-poster\vg-poster.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-themes-default\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-themes-default\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-themes-default\Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-themes-default\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-themes-default\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-themes-default\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-themes-default\fonts\videogular.dev.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-themes-default\fonts\videogular.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-themes-default\fonts\videogular.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-themes-default\fonts\videogular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-themes-default\fonts\videogular.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-themes-default\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-themes-default\videogular.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-themes-default\videogular.css.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular-themes-default\videogular.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular\Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular\videogular.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\videogular\videogular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\waypoints\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\waypoints\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\waypoints\README.markdown" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\waypoints\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\waypoints\licenses.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\waypoints\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\waypoints\shortcuts\infinite-scroll\waypoints-infinite.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\waypoints\shortcuts\infinite-scroll\waypoints-infinite.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\waypoints\shortcuts\sticky-elements\waypoints-sticky.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\waypoints\shortcuts\sticky-elements\waypoints-sticky.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\waypoints\waypoints.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\intellij\workspace\VideoHub\src\main\resources\static\bower_components\waypoints\waypoints.min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="VideoHub.iws" />
@@ -708,11 +62,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.027960526">
+            <state vertical-scroll-proportion="0.0">
               <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.27960527">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -775,13 +139,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/videohub/controller/SampleController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/src/main/resources/static/js/hello.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/static/js/videogular.js" />
         <option value="$PROJECT_DIR$/src/main/resources/static/watch.html" />
         <option value="$PROJECT_DIR$/src/main/resources/static/js/shader.js" />
         <option value="$PROJECT_DIR$/src/main/resources/static/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -1453,48 +817,54 @@
       <option name="project" value="LOCAL" />
       <updated>1430058608331</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Deleted bower_components from repository">
+      <created>1430132455162</created>
+      <option name="number" value="00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1430132455162</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55432000" />
+    <option name="totallyTimeSpent" value="55753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.66302085" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.49791667" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.49583334" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2453125" sideWeight="0.4992126" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2453125" sideWeight="0.5007874" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.66302085" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1667,13 +1037,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1722,8 +1085,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.027960526">
+        <state vertical-scroll-proportion="0.0">
           <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27960527">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding />
         </state>
       </provider>
