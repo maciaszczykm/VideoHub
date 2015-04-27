@@ -1,7 +1,9 @@
 # Ignore output files
 target/*
+bin/*
+build/*
 
-# Ignore bower components
+# Ignore Bower components
 src/main/resources/static/bower_components/*
 
 # Ignore JRebel configuration
@@ -10,3 +12,13 @@ src/main/resources/rebel.xml
 # Ignore IntelliJ files
 .idea/*
 *.iml
+
+# Ignore eclipse files
+.settings/*
+.target
+.project
+.cproject
+.metadata
+.classpath
+.buildpath
+.factorypath
