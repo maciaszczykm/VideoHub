@@ -13,7 +13,7 @@ src/main/resources/rebel.xml
 .idea/*
 *.iml
 
-# Ignore eclipse files
+# Ignore Eclipse files
 .settings/*
 .target
 .project
