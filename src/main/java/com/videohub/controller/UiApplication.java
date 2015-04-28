@@ -14,19 +14,19 @@ import java.util.UUID;
 @RestController
 public class UiApplication {
 
-  private static final Logger LOGGER = Logger.getLogger(UiApplication.class);
+    private static final Logger LOGGER = Logger.getLogger(UiApplication.class);
 
-  @RequestMapping("/resource")
-  public Map<String,Object> home() {
-    Map<String,Object> model = new HashMap<String,Object>();
-    model.put("id", UUID.randomUUID().toString());
-    model.put("content", "Hello World");
-    return model;
-  }
+    @RequestMapping("/resource")
+    public Map<String,Object> home() {
+        Map<String,Object> model = new HashMap<String,Object>();
+        model.put("id", UUID.randomUUID().toString());
+        model.put("content", "Hello World");
+        return model;
+    }
 
-  public static void main(String[] args) {
-    SpringApplication.run(UiApplication.class, args);
-    LOGGER.info("VideoHub application Started");
-  }
+    public static void main(String[] args) {
+        SpringApplication.run(UiApplication.class, args);
+        LOGGER.info("VideoHub application Started");
+    }
 
 }
