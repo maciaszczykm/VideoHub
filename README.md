@@ -2,6 +2,9 @@
 
 ***
 
+## Information
+VideoHub is a video-sharing webservice.
+
 ## Running the application
 1. Checkout project from GitHub.
 2. Update Bower dependencies.
