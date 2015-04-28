@@ -1,8 +1,8 @@
 package com.videohub.model;
 
-public class Metadata {
+public class Category {
 
     private Long id = null;
-    private Long duration = null;
+    private String name = null;
 
 }
