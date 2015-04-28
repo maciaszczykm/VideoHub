@@ -1,5 +1,6 @@
 package com.videohub.controller;
 
+import org.apache.log4j.Logger;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -13,6 +14,8 @@ import java.util.UUID;
 @RestController
 public class UiApplication {
 
+  private static final Logger LOGGER = Logger.getLogger(UiApplication.class);
+
   @RequestMapping("/resource")
   public Map<String,Object> home() {
     Map<String,Object> model = new HashMap<String,Object>();
@@ -23,6 +26,7 @@ public class UiApplication {
 
   public static void main(String[] args) {
     SpringApplication.run(UiApplication.class, args);
+    LOGGER.info("VideoHub application Started");
   }
 
 }
