@@ -85,7 +85,7 @@ public class Rate {
 
     @Override
     public String toString() {
-        return "TwoStateRate{" +
+        return "Rate{" +
                 "id=" + id +
                 ", rate=" + rate +
                 ", author=" + author +
