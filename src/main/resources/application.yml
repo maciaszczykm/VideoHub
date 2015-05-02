@@ -2,10 +2,6 @@ spring:
   application:
     name: VideoHub
 
-security:
-  user:
-    password: password
-
 logging:
   level:
     com.videohub: TRACE
