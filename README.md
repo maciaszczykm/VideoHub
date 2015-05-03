@@ -10,6 +10,7 @@ VideoHub is a video-sharing webservice.
 2. Update Bower dependencies.
 3. Import Maven project into your IDE.
 4. To configure JRebel add `videohub.basedir` property to your VM options. It should point at VideoHub base directory. For example `-Dvideohub.basedir=D:\Workspace\VideoHub`.
+5. Execute `database/database.sql` script to create MySQL database.
 5. Run the application.
 
 ## Current status

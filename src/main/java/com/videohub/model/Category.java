@@ -1,16 +1,17 @@
 package com.videohub.model;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.*;
 
 @Entity
+@Table(name = "CATEGORY")
 public class Category {
 
+    @Column(name = "ID")
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id = null;
+
+    @Column(name = "NAME")
     private String name = null;
 
     protected Category() {
