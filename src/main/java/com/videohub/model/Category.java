@@ -6,12 +6,12 @@ import javax.persistence.*;
 @Table(name = "CATEGORY")
 public class Category {
 
-    @Column(name = "ID")
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
+    @Column(name = "ID")
     private Long id = null;
 
-    @Column(name = "NAME")
+    @Column(name = "NAME", unique = true, nullable =  false)
     private String name = null;
 
     protected Category() {
