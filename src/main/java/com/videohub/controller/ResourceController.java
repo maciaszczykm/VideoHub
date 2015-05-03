@@ -16,14 +16,8 @@ public class ResourceController {
 
     private static final Logger LOGGER = Logger.getLogger(ResourceController.class);
 
-    @Autowired
-    CategoryService categoryService;
-
     @RequestMapping("/resource")
     public Map<String,Object> home() {
-        categoryService.addCategory(new Category("Sport"));
-        categoryService.addCategory(new Category("Music"));
-        LOGGER.info(categoryService.getCategories());
         Map<String,Object> model = new HashMap<>();
         model.put("id", UUID.randomUUID().toString());
         model.put("content", "Hello World");
