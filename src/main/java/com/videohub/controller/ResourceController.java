@@ -21,10 +21,10 @@ public class ResourceController {
 
     @RequestMapping("/resource")
     public Map<String,Object> home() {
-        categoryService.addCategory(new Category(1L, "First category"));
-        categoryService.addCategory(new Category(1L, "Second category"));
+        categoryService.addCategory(new Category("Sport"));
+        categoryService.addCategory(new Category("Music"));
         LOGGER.info(categoryService.getCategories());
-        Map<String,Object> model = new HashMap<String,Object>();
+        Map<String,Object> model = new HashMap<>();
         model.put("id", UUID.randomUUID().toString());
         model.put("content", "Hello World");
         return model;
