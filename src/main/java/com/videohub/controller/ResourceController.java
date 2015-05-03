@@ -1,8 +1,9 @@
 package com.videohub.controller;
 
+import com.videohub.model.Category;
+import com.videohub.service.CategoryService;
 import org.apache.log4j.Logger;
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -10,23 +11,23 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
 
-@SpringBootApplication
 @RestController
-public class UiApplication {
+public class ResourceController {
 
-    private static final Logger LOGGER = Logger.getLogger(UiApplication.class);
+    private static final Logger LOGGER = Logger.getLogger(ResourceController.class);
+
+    @Autowired
+    CategoryService categoryService;
 
     @RequestMapping("/resource")
     public Map<String,Object> home() {
+        categoryService.addCategory(new Category(1L, "First category"));
+        categoryService.addCategory(new Category(1L, "Second category"));
+        LOGGER.info(categoryService.getCategories());
         Map<String,Object> model = new HashMap<String,Object>();
         model.put("id", UUID.randomUUID().toString());
         model.put("content", "Hello World");
         return model;
-    }
-
-    public static void main(String[] args) {
-        SpringApplication.run(UiApplication.class, args);
-        LOGGER.info("VideoHub application Started");
     }
 
 }
