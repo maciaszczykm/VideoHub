@@ -19,37 +19,30 @@ public class CategoryServiceImpl implements CategoryService {
     @Autowired
     private CategoryRepository categoryRepository;
 
-    @Override
     public List<Category> getCategories() {
         return categoryRepository.findAll();
     }
 
-    @Override
     public List<Category> getCategories(String name) {
         return categoryRepository.findByName(name);
     }
 
-    @Override
     public void addCategory(Category category) {
         categoryRepository.save(category);
     }
 
-    @Override
     public void addCategories(List<Category> categories) {
         categoryRepository.save(categories);
     }
 
-    @Override
     public void deleteCategory(Category category) {
         categoryRepository.delete(category);
     }
 
-    @Override
     public void deleteCategories(List<Category> categories) {
         categoryRepository.delete(categories);
     }
 
-    @Override
     public void deleteAllCategories() {
         categoryRepository.deleteAll();
     }
