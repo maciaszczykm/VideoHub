@@ -4,9 +4,9 @@
     <title>VideoHub</title>
     <link href="js/libs/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
 </head>
-<body ng-app="VideoHubApp">
+<body>
 
-<nav id="myNavbar" class="navbar navbar-default navbar-inverse navbar-fixed-top" role="navigation">
+<div id="myNavbar" class="navbar navbar-default navbar-inverse navbar-fixed-top" role="navigation">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="container-fluid">
         <div class="navbar-header">
@@ -27,69 +27,32 @@
             </ul>
         </div>
     </div>
-</nav>
-
-<div class="jumbotron" ng-controller="mainCtrl">
-    <div class="container-fluid">
-        <h1>{{greeting.name}}</h1>
-        <p>{{greeting.message}}</p>
-        <p><a href="#" t  class="btn btn-success btn-lg">Get started today</a></p>
-    </div>
 </div>
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-xs-4">
-            <h2>HTML</h2>
-            <p>Lorem ipsum dolor sit amet wisi. Proin nunc felis, consequat urna vitae erat volutpat. Curabitur volutpat a, urna. Aenean ligula. Aliquam ultricies pretium. Vestibulum euismod nec, elementum velit. Cras ut nunc justo, hendrerit nibh vel tincidunt wisi nec tristique senectus et quam ultricies leo. Suspendisse est enim ac turpis at urna augue, id eleifend justo nibh, eu ipsum enim, ac turpis egestas. Mauris imperdiet quis, blandit lectus. Phasellus vitae lacinia ut, pellentesque non, consectetuer dolor magna, sollicitudin turpis eget diam id felis. Integer ultrices metus gravida at, molestie a, fermentum nec, ullamcorper ut, turpis. Praesent quis lectus bibendum mi, rutrum molestie, neque quis pede eget sapien mauris sit amet, consectetuer mollis. Nulla ut ante. Proin vulputate tortor non eros. Donec nisl nulla eu orci viverra nonummy, mi. Suspendisse a metus. Etiam condimentum velit. Mauris leo. Aliquam tellus dui lectus nec erat consectetuer elit. In nonummy. Phasellus vitae sapien tristique ullamcorper. Suspendisse vehicula. Integer metus imperdiet in, pulvinar mollis. Nulla facilisis sagittis sed, pretium eros pellentesque auctor vel, ipsum. Vestibulum ante ipsum primis in ornare ac, blandit risus vel nulla. Ut.</p>
-            <p><a href="#" class="btn btn-success">Learn More &raquo;</a></p>
+
+<div class="panel panel-default row" style="padding-top: 55px" ng-controller="mainCtrl">
+    <div class="alert alert-danger" ng-show="authenticationError" ng-bind-html="authenticationError.data"></div>
+    <form class="well col-xs-3" name="authForm" novalidate>
+        <div class="form-group">
+            <label>Nazwa kategorii</label>
+            <input name="category" class="form-control" ng-model="form.name" required/>
         </div>
-        <div class="col-xs-4">
-            <h2>CSS</h2>
-            <p>Lorem ipsum dolor sit amet wisi. Proin nunc felis, consequat urna vitae erat volutpat. Curabitur volutpat a, urna. Aenean ligula. Aliquam ultricies pretium. Vestibulum euismod nec, elementum velit. Cras ut nunc justo, hendrerit nibh vel tincidunt wisi nec tristique senectus et quam ultricies leo. Suspendisse est enim ac turpis at urna augue, id eleifend justo nibh, eu ipsum enim, ac turpis egestas. Mauris imperdiet quis, blandit lectus. Phasellus vitae lacinia ut, pellentesque non, consectetuer dolor magna, sollicitudin turpis eget diam id felis. Integer ultrices metus gravida at, molestie a, fermentum nec, ullamcorper ut, turpis. Praesent quis lectus bibendum mi, rutrum molestie, neque quis pede eget sapien mauris sit amet, consectetuer mollis. Nulla ut ante. Proin vulputate tortor non eros. Donec nisl nulla eu orci viverra nonummy, mi. Suspendisse a metus. Etiam condimentum velit. Mauris leo. Aliquam tellus dui lectus nec erat consectetuer elit. In nonummy. Phasellus vitae sapien tristique ullamcorper. Suspendisse vehicula. Integer metus imperdiet in, pulvinar mollis. Nulla facilisis sagittis sed, pretium eros pellentesque auctor vel, ipsum. Vestibulum ante ipsum primis in ornare ac, blandit risus vel nulla. Ut.</p>
-            <p><a href="#" class="btn btn-success">Learn More &raquo;</a></p>
+        <div class="text-center">
+            <button ng-click="addCategory(form.name)" ng-disabled="authForm.$invalid" class="btn btn-primary">
+                Dodaj kategorie
+            </button>
         </div>
-        <div class="col-xs-4">
-            <h2>Bootstrap</h2>
-            <p>Lorem ipsum dolor sit amet wisi. Proin nunc felis, consequat urna vitae erat volutpat. Curabitur volutpat a, urna. Aenean ligula. Aliquam ultricies pretium. Vestibulum euismod nec, elementum velit. Cras ut nunc justo, hendrerit nibh vel tincidunt wisi nec tristique senectus et quam ultricies leo. Suspendisse est enim ac turpis at urna augue, id eleifend justo nibh, eu ipsum enim, ac turpis egestas. Mauris imperdiet quis, blandit lectus. Phasellus vitae lacinia ut, pellentesque non, consectetuer dolor magna, sollicitudin turpis eget diam id felis. Integer ultrices metus gravida at, molestie a, fermentum nec, ullamcorper ut, turpis. Praesent quis lectus bibendum mi, rutrum molestie, neque quis pede eget sapien mauris sit amet, consectetuer mollis. Nulla ut ante. Proin vulputate tortor non eros. Donec nisl nulla eu orci viverra nonummy, mi. Suspendisse a metus. Etiam condimentum velit. Mauris leo. Aliquam tellus dui lectus nec erat consectetuer elit. In nonummy. Phasellus vitae sapien tristique ullamcorper. Suspendisse vehicula. Integer metus imperdiet in, pulvinar mollis. Nulla facilisis sagittis sed, pretium eros pellentesque auctor vel, ipsum. Vestibulum ante ipsum primis in ornare ac, blandit risus vel nulla. Ut.</p>
-            <p><a href="#" class="btn btn-success">Learn More &raquo;</a></p>
-        </div>
-    </div>
-    <hr>
-    <div class="row">
-        <div class="col-xs-12">
-            <footer>
-                <p>&copy; Copyright</p>
-            </footer>
+    </form>
+
+    <div class="col-xs-5">
+        <div class="well text-center" style="padding-left: 20px; padding-top: 10px;" ng-repeat="category in categories">
+            Category id: {{category.id}}<br>
+            Category name: {{category.name}}
         </div>
     </div>
 </div>
-
-<!--<div id="top" class="top">-->
-<!--<div id="shader" class="top">-->
-<!--</div>-->
-
-<!--<div class="container-fluid">-->
-<!--<div id="logo" class="logo pull-left">-->
-<!--<img src="img/logo.png">-->
-<!--</div>-->
-
-<!--<div class="btn-group pull-right" role="group">-->
-<!--<button type="button" class="btn btn-default">Watch</button>-->
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
-
-<!--<div class="">-->
-<!--<h1>Greeting</h1>-->
-
-<!--<div ng-controller="mainCtrl" ng-cloak class="ng-cloak">-->
-<!--<p>The ID is {{greeting.id}}</p>-->
-
-<!--<p>The content is {{greeting.message}}</p>-->
-<!--</div>-->
-<!--</div>-->
 <script src="js/libs/angularjs/angular.js"></script>
 <script src="js/app.js"></script>
+<script src="js/services/categoryService.js"></script>
 <script src="js/libs/shader.js"></script>
 </body>
 </html>

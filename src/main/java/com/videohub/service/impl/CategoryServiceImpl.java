@@ -3,27 +3,36 @@ package com.videohub.service.impl;
 import com.videohub.model.Category;
 import com.videohub.repository.CategoryRepository;
 import com.videohub.service.CategoryService;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
-@Component
+@Service
 @Transactional
 public class CategoryServiceImpl implements CategoryService {
 
-    private static final Logger LOGGER = Logger.getLogger(CategoryServiceImpl.class);
+    private static final Logger LOGGER = LogManager.getLogger(CategoryServiceImpl.class);
 
     @Autowired
     private CategoryRepository categoryRepository;
+
+    public CategoryRepository getCategoryRepository() {
+        return categoryRepository;
+    }
+
+    public void setCategoryRepository(CategoryRepository categoryRepository) {
+        this.categoryRepository = categoryRepository;
+    }
 
     public List<Category> getCategories() {
         return categoryRepository.findAll();
     }
 
-    public List<Category> getCategories(String name) {
+    public List<Category> getCategory(String name) {
         return categoryRepository.findByName(name);
     }
 
