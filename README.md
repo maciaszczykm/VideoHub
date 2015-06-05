@@ -21,7 +21,7 @@ If using JBoss server to deploy:
 3. Deploy and start the app.
 
 ## MongoDB Setup
-1. Download MongoDB database. `https://www.mongodb.org`
+1. Download MongoDB database. https://www.mongodb.org
 2. Install in desired location. (Example is based on `C:\Libraries\MongoDB`)
 3. Change paths in `<VIDEOHUB_PROJECT_HOME>\database\db.cfg` to correct ones. `path` is for log file and `dbPath` for database folder path.
 3. On windows create service that will start database on system startup.
@@ -31,8 +31,8 @@ If using JBoss server to deploy:
     d) Start service with: net start MongoDB.
 4. Database should be up and running.
 
-Additionally you can download MongoDB UI client of your choice. List of clients can be found here: `http://docs.mongodb.org/ecosystem/tools/administration-interfaces`
-I`m using `Robomongo` standalone windows client :)
+Additionally you can download MongoDB UI client of your choice. List of clients can be found here: http://docs.mongodb.org/ecosystem/tools/administration-interfaces
+I'm using `Robomongo` standalone windows client :)
 
 ## Current status
 [![GitHub version](https://badge.fury.io/gh/maciaszczykm%2FVideoHub.svg)](http://badge.fury.io/gh/maciaszczykm%2FVideoHub)
