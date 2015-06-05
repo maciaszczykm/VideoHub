@@ -23,9 +23,10 @@ If using JBoss server to deploy:
 ## MongoDB Setup
 1. Download MongoDB database. 'https://www.mongodb.org'
 2. Install in desired location. (Example is based on 'C:\Libraries\MongoDB')
+3. Change paths in '<VIDEOHUB_PROJECT_HOME>\database\db.cfg' to correct ones. 'path' is for log file and 'dbPath' for database folder path.
 3. On windows create service that will start database on system startup.
     a) Open cmd with administrative rights. (WinKey + X then A)
-    b) Copy this command and change paths to correct one. Do not change anything else.
+    b) Copy this command and change paths to correct ones. Do not change anything else.
     c) Execute command: 'sc.exe create MongoDB binPath= "\"<MONGODB_HOME>\bin\mongod.exe\" --service --config=\"<VIDEOHUB_PROJECT_HOME>\database\db.cfg\"" DisplayName= "MongoDB" start= "auto"'
     d) Start service with: net start MongoDB.
 4. Database should be up and running.
