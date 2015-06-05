@@ -20,9 +20,9 @@ app.controller('mainCtrl', function ($scope, $sce, categoryService) {
         $scope.form.name = "";
     };
 
-    function applyRemoteData(newFriends) {
+    function applyRemoteData(newCategories) {
 
-        $scope.categories = newFriends;
+        $scope.categories = newCategories;
 
     }
 

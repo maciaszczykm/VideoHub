@@ -1,17 +1,18 @@
 package com.videohub.model;
 
-import javax.persistence.*;
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.index.Indexed;
+import org.springframework.data.mongodb.core.mapping.Document;
 
-@Entity
-@Table(name = "CATEGORY")
+import java.math.BigInteger;
+
+@Document
 public class Category {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
-    @Column(name = "ID")
-    private Long id = null;
+    private BigInteger id = null;
 
-    @Column(name = "NAME", unique = true, nullable =  false)
+    @Indexed(unique = true)
     private String name = null;
 
     protected Category() {
@@ -22,16 +23,16 @@ public class Category {
         this.name = name;
     }
 
-    public Category(Long id, String name) {
+    public Category(BigInteger id, String name) {
         this.id = id;
         this.name = name;
     }
 
-    public Long getId() {
+    public BigInteger getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(BigInteger id) {
         this.id = id;
     }
 

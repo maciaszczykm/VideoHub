@@ -6,6 +6,7 @@ import com.videohub.service.CategoryService;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -17,6 +18,7 @@ public class CategoryServiceImpl implements CategoryService {
 
     private static final Logger LOGGER = LogManager.getLogger(CategoryServiceImpl.class);
 
+    @Qualifier("categoryRepository")
     @Autowired
     private CategoryRepository categoryRepository;
 
