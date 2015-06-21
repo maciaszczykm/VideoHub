@@ -1,11 +1,16 @@
 package com.videohub.configuration;
 
-import com.mongodb.Mongo;
-import com.mongodb.MongoClient;
+import com.google.common.collect.Lists;
+import com.mongodb.*;
+import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.authentication.UserCredentials;
+import org.springframework.data.mongodb.MongoDbFactory;
 import org.springframework.data.mongodb.config.AbstractMongoConfiguration;
+import org.springframework.data.mongodb.core.SimpleMongoDbFactory;
 import org.springframework.data.mongodb.repository.config.EnableMongoRepositories;
+
+import java.util.List;
 
 /**
  * Created by: GiBSoN.
@@ -30,7 +35,7 @@ public class MongoConfiguration extends AbstractMongoConfiguration {
 
     @Override
     public Mongo mongo() throws Exception {
-        return new MongoClient(IP.isEmpty() ? DEV_IP : IP, PORT);
+        return new MongoClient(getAddress(), getUserCredentialList());
     }
 
     @Override
@@ -38,11 +43,11 @@ public class MongoConfiguration extends AbstractMongoConfiguration {
         return BASE_PACKAGE;
     }
 
-    @Override
-    protected UserCredentials getUserCredentials() {
-        return new UserCredentials(
-                USERNAME,
-                PASSWORD
-        );
+    private ServerAddress getAddress() {
+        return new ServerAddress(IP.isEmpty() ? DEV_IP : IP, PORT);
+    }
+
+    private List<MongoCredential> getUserCredentialList() {
+        return Lists.newArrayList(MongoCredential.createCredential(USERNAME, DB_NAME, PASSWORD.toCharArray()));
     }
 }
