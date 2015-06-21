@@ -15,7 +15,7 @@ import org.springframework.data.mongodb.repository.config.EnableMongoRepositorie
 public class MongoConfiguration extends AbstractMongoConfiguration {
 
     private static final String DB_NAME = "videohub";
-    private static final String DEV_IP = "localhost";
+    private static final String DEV_IP = "127.8.168.2";
     private static final String IP = "";
     private static final short PORT = 27017;
     private static final String BASE_PACKAGE = "com.videohub.model";
