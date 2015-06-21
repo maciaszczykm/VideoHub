@@ -107,9 +107,6 @@
             <resource>
                 <directory>${project.basedir}/src/main/resources</directory>
             </resource>
-            <resource>
-                <directory>${project.build.directory}/generated-resources</directory>
-            </resource>
         </resources>
         <plugins>
             <plugin>
@@ -131,10 +128,12 @@
                 <artifactId>maven-war-plugin</artifactId>
                 <configuration>
                     <failOnMissingWebXml>false</failOnMissingWebXml>
+                    <outputDirectory>${project.basedir}/deployments</outputDirectory>
                 </configuration>
             </plugin>
         </plugins>
         <finalName>ROOT</finalName>
+
     </build>
 
 </project>
