@@ -2,8 +2,10 @@ package com.videohub.configuration;
 
 import com.google.common.collect.Lists;
 import com.mongodb.*;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.PropertySource;
 import org.springframework.data.authentication.UserCredentials;
 import org.springframework.data.mongodb.MongoDbFactory;
 import org.springframework.data.mongodb.config.AbstractMongoConfiguration;
@@ -18,15 +20,25 @@ import java.util.List;
  */
 @Configuration
 @EnableMongoRepositories(value = "com.videohub.repository")
-public class MongoConfiguration extends AbstractMongoConfiguration {
+@PropertySource("classpath:db.properties")
+public class MongoConfig extends AbstractMongoConfiguration {
 
-    private static final String DB_NAME = "videohub";
-    private static final String DEV_IP = "localhost";
-    private static final String IP = "127.8.168.2";
-    private static final short PORT = 27017;
     private static final String BASE_PACKAGE = "com.videohub.model";
-    private static final String USERNAME = "admin";
-    private static final String PASSWORD = "HPcbQt8PQJIa";
+
+    @Value("${mongodb.db}")
+    private String DB_NAME;
+
+    @Value("${mongodb.url}")
+    private String IP;
+
+    @Value("${mongodb.port}")
+    private Integer PORT;
+
+    @Value("${mongodb.username:}")
+    private String USERNAME;
+
+    @Value("${mongodb.password:}")
+    private String PASSWORD;
 
     @Override
     protected String getDatabaseName() {
@@ -35,7 +47,9 @@ public class MongoConfiguration extends AbstractMongoConfiguration {
 
     @Override
     public Mongo mongo() throws Exception {
-        return new MongoClient(getAddress(), getUserCredentialList());
+        return USERNAME.isEmpty() || PASSWORD.isEmpty() ?
+                new MongoClient(getAddress()) :
+                new MongoClient(getAddress(), getUserCredentialList());
     }
 
     @Override
@@ -44,7 +58,7 @@ public class MongoConfiguration extends AbstractMongoConfiguration {
     }
 
     private ServerAddress getAddress() {
-        return new ServerAddress(IP.isEmpty() ? DEV_IP : IP, PORT);
+        return new ServerAddress(IP, PORT);
     }
 
     private List<MongoCredential> getUserCredentialList() {

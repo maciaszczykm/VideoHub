@@ -12,7 +12,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
  */
 @Configuration
 @EnableWebMvc
-public class WebConfiguration extends WebMvcConfigurerAdapter {
+public class WebConfig extends WebMvcConfigurerAdapter {
 
     private static final String MEDIA_TYPE_NAME = "json";
     private static final MediaType MEDIA_TYPE = MediaType.APPLICATION_JSON;

@@ -21,7 +21,7 @@ public class VideoHubInitializer implements WebApplicationInitializer {
     @Override
     public void onStartup(ServletContext servletContext) throws ServletException {
         AnnotationConfigWebApplicationContext rootContext = new AnnotationConfigWebApplicationContext();
-        rootContext.register(WebConfiguration.class);
+        rootContext.register(WebConfig.class);
 
         servletContext.addListener(new ContextLoaderListener(rootContext));
 
