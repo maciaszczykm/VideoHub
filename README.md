@@ -36,4 +36,4 @@ I'm using `Robomongo` standalone windows client :)
 ## Current status
 [![GitHub version](https://badge.fury.io/gh/maciaszczykm%2FVideoHub.svg)](http://badge.fury.io/gh/maciaszczykm%2FVideoHub)
 [![Build Status](https://travis-ci.org/maciaszczykm/VideoHub.svg)](https://travis-ci.org/maciaszczykm/VideoHub)
-[![Jenkins Status](https://jenkins-videohubapp.rhcloud.com/buildStatus/icon?job=VideoHub%20Master)](https://jenkins-videohubapp.rhcloud.com/job/VideoHub%20Master)
+[![Jenkins Status](https://jenkins-videohubapp.rhcloud.com/buildStatus/icon?job=VideoHub%20Master)]
