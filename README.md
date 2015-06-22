@@ -34,6 +34,6 @@ Additionally you can download MongoDB UI client of your choice. List of clients 
 I'm using `Robomongo` standalone windows client :)
 
 ## Current status
-[![GitHub version](https://badge.fury.io/gh/maciaszczykm%2FVideoHub.svg)](https://badge.fury.io/gh/maciaszczykm%2FVideoHub.svg)
+[![GitHub version](https://badge.fury.io/gh/maciaszczykm%2FVideoHub.svg)](http://badge.fury.io/gh/maciaszczykm%2FVideoHub)
 [![Jenkins Status](https://jenkins-videohubapp.rhcloud.com:443/job/VideoHub%20Master/badge/icon)](https://jenkins-videohubapp.rhcloud.com/job/VideoHub%20Master/)
 
