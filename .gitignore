@@ -1,3 +1,6 @@
+# Ignore user-specific configuration files
+database/db.cfg
+
 # Ignore output files
 target/*
 bin/*
