@@ -2,10 +2,9 @@
 
 ***
 
-## Information
+## Information and status
 VideoHub is a video-sharing webservice.
 
-## Current status
 [![GitHub version](https://badge.fury.io/gh/maciaszczykm%2FVideoHub.svg)](http://badge.fury.io/gh/maciaszczykm%2FVideoHub)
 [![Jenkins status](https://jenkins-videohubapp.rhcloud.com:443/job/app-build/badge/icon)](https://jenkins-videohubapp.rhcloud.com/job/app-build/)
 
