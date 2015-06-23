@@ -5,6 +5,10 @@
 ## Information
 VideoHub is a video-sharing webservice.
 
+## Current status
+[![GitHub version](https://badge.fury.io/gh/maciaszczykm%2FVideoHub.svg)](http://badge.fury.io/gh/maciaszczykm%2FVideoHub)
+[![Jenkins status](https://jenkins-videohubapp.rhcloud.com:443/job/app-build/badge/icon)](https://jenkins-videohubapp.rhcloud.com/job/app-build/)
+
 ## Workspace preparation
 Step by step instruction how to get your workspace ready to work:
 
@@ -38,7 +42,3 @@ correct values. For example `sc.exe create MongoDB binPath= "\"C:\PROGRA~1\Mongo
 for first time you can just use command `net start MongoDB`.
 5. You may also want to use MongoDB client. We recommend Robomongo to you, which you can download from 
 http://robomongo.org/.
-    
-## Current status
-[![GitHub version](https://badge.fury.io/gh/maciaszczykm%2FVideoHub.svg)](http://badge.fury.io/gh/maciaszczykm%2FVideoHub)
-[![Jenkins status](https://jenkins-videohubapp.rhcloud.com:443/job/app-build/badge/icon)](https://jenkins-videohubapp.rhcloud.com/job/app-build/)
