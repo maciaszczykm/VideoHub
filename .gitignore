@@ -5,6 +5,7 @@ database/db.cfg
 target/*
 bin/*
 build/*
+classes/*
 
 # Ignore Bower components
 src/main/resources/static/bower_components/*
