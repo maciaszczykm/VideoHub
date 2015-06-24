@@ -11,10 +11,6 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.validation.Valid;
 import java.util.List;
 
-/**
- * Created by: GiBSoN.
- * Created on: 2015-06-04.
- */
 @RestController
 @RequestMapping("categories")
 public class CategoryController {

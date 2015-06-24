@@ -9,10 +9,6 @@ import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
 import javax.servlet.ServletRegistration;
 
-/**
- * Created by: GiBSoN.
- * Created on: 2015-06-05.
- */
 public class VideoHubInitializer implements WebApplicationInitializer {
 
     private static final String DISPATCHER_MAPPING = "/rest/*";

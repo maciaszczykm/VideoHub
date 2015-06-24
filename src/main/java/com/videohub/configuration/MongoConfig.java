@@ -14,10 +14,6 @@ import org.springframework.data.mongodb.repository.config.EnableMongoRepositorie
 
 import java.util.List;
 
-/**
- * Created by: GiBSoN.
- * Created on: 2015-06-04.
- */
 @Configuration
 @EnableMongoRepositories(value = "com.videohub.repository")
 @PropertySource("classpath:db.properties")
