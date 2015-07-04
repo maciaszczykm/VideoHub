@@ -36,6 +36,13 @@ app.controller('mainCtrl', function ($scope, $sce, categoryService) {
         $scope.form.name = "";
     };
 
+    $scope.toggleMenu = function() {
+        $("#menu-toggle").click(function(e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+        });
+    };
+
     function applyRemoteData(newCategories) {
 
         $scope.categories = newCategories;
