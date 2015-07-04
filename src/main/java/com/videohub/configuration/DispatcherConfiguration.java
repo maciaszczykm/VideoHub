@@ -14,31 +14,19 @@
  * limitations under the License.
  */
 
-package com.videohub.service;
+package com.videohub.configuration;
 
-import com.videohub.model.Category;
-import org.springframework.stereotype.Service;
-
-import java.util.List;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.web.servlet.config.annotation.EnableWebMvc;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
 /**
  * Created by: Sebastian Florek.
- * Created on: 2015-06-04.
+ * Created on: 2015-06-05.
  */
-public interface CategoryService {
-
-    List<Category> getCategories();
-
-    List<Category> getCategory(String name);
-
-    void addCategory(Category category);
-
-    void addCategories(List<Category> categories);
-
-    void deleteCategory(Category category);
-
-    void deleteCategories(List<Category> categories);
-
-    void deleteAllCategories();
-
+@Configuration
+@EnableWebMvc
+@ComponentScan(basePackages = "com.videohub")
+public class DispatcherConfiguration extends WebMvcConfigurerAdapter {
 }

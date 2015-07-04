@@ -6,7 +6,7 @@
 VideoHub is a video-sharing webservice.
 
 [![GitHub version](https://badge.fury.io/gh/maciaszczykm%2FVideoHub.svg)](http://badge.fury.io/gh/maciaszczykm%2FVideoHub)
-[![Jenkins status](https://jenkins-videohubapp.rhcloud.com:443/job/app-build/badge/icon)](https://jenkins-videohubapp.rhcloud.com/job/app-build/)
+[![Build Status](https://travis-ci.org/maciaszczykm/VideoHub.svg)](https://travis-ci.org/maciaszczykm/VideoHub)
 
 ## Workspace preparation
 Step by step instruction how to get your workspace ready to work:

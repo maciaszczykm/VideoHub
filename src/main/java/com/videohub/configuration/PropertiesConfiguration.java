@@ -14,31 +14,23 @@
  * limitations under the License.
  */
 
-package com.videohub.service;
+package com.videohub.configuration;
 
-import com.videohub.model.Category;
-import org.springframework.stereotype.Service;
-
-import java.util.List;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.PropertySource;
+import org.springframework.context.support.PropertySourcesPlaceholderConfigurer;
 
 /**
  * Created by: Sebastian Florek.
- * Created on: 2015-06-04.
+ * Created on: 2015-07-04.
  */
-public interface CategoryService {
+@Configuration
+@PropertySource("classpath:db.properties")
+public class PropertiesConfiguration {
 
-    List<Category> getCategories();
-
-    List<Category> getCategory(String name);
-
-    void addCategory(Category category);
-
-    void addCategories(List<Category> categories);
-
-    void deleteCategory(Category category);
-
-    void deleteCategories(List<Category> categories);
-
-    void deleteAllCategories();
-
+    @Bean
+    public static PropertySourcesPlaceholderConfigurer propertyConfig() {
+        return new PropertySourcesPlaceholderConfigurer();
+    }
 }
