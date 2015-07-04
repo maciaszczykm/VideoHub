@@ -16,6 +16,8 @@
 
 package com.videohub.configuration;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.springframework.web.WebApplicationInitializer;
 import org.springframework.web.context.ContextLoaderListener;
 import org.springframework.web.context.support.AnnotationConfigWebApplicationContext;
@@ -31,11 +33,15 @@ import javax.servlet.ServletRegistration;
  */
 public class VideoHubInitializer implements WebApplicationInitializer {
 
+    private static final Logger LOGGER = LogManager.getLogger(VideoHubInitializer.class);
+
     private static final String DISPATCHER_MAPPING = "/rest/*";
     private static final String DISPATCHER_NAME = "dispatcher";
 
     @Override
     public void onStartup(ServletContext servletContext) throws ServletException {
+        LOGGER.trace("Starting videohub app");
+
         AnnotationConfigWebApplicationContext rootContext = new AnnotationConfigWebApplicationContext();
         rootContext.register(WebConfiguration.class);
 
