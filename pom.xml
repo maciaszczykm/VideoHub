@@ -126,7 +126,7 @@
             <resource>
                 <directory>${project.build.directory}/generated-resources</directory>
             </resource>
-        </resources>
+        </resources>k
         <plugins>
             <plugin>
                 <groupId>org.zeroturnaround</groupId>
@@ -158,7 +158,7 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>ROOT.war</finalName>
+        <finalName>ROOT</finalName>
     </build>
 
 </project>

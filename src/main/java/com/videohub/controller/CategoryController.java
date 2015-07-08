@@ -44,7 +44,6 @@ public class CategoryController {
 
     @RequestMapping(method = RequestMethod.GET)
     public List<Category> getAllCategories() {
-        List<Category> categories = categoryService.getCategories();
         return categoryService.getCategories();
     }
 
