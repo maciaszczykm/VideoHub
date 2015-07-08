@@ -23,7 +23,8 @@ We are using WildFly server, here is short information how to set it up:
 
 1. Download and install newest version of WildFly server from http://wildfly.org/.
 2. Configure server in your IDE as JBoss server. It's important to name artifact, which will be deployed `ROOT.war`.
-You should also use exploded artifact to override WildFly default welcome content.
+You should also use exploded artifact to override WildFly default welcome content. You should also verify if 
+`<wildfly_home>/standalone/configuration/standalone.xml` does contain valid deployments configuration.
 3. Proceed to database configuration.
 
 ## Database configuration
