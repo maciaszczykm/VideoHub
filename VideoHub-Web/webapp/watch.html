@@ -51,9 +51,9 @@
     <div class="container-holder">
         <div class="container">
             <div ng-controller="HomeCtrl as controller">
-                <videogular vg-theme="controller.config.theme">
-                    <vg-media vg-src="controller.config.sources"
-                              vg-tracks="controller.config.tracks">
+                <videogular vg-theme="com.videohub.controller.config.theme">
+                    <vg-media vg-src="com.videohub.controller.config.sources"
+                              vg-tracks="com.videohub.controller.config.tracks">
                     </vg-media>
 
                     <vg-controls>
@@ -71,7 +71,7 @@
                     </vg-controls>
 
                     <vg-overlay-play></vg-overlay-play>
-                    <vg-poster vg-url='controller.config.plugins.poster'></vg-poster>
+                    <vg-poster vg-url='com.videohub.controller.config.plugins.poster'></vg-poster>
                 </videogular>
             </div>
         </div>
