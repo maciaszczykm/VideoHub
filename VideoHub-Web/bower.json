@@ -14,7 +14,7 @@
     "bower_components",
     "test",
     "tests",
-    "src/main/webapp/js/libs"
+    "webapp/js/libs"
   ],
   "dependencies": {
     "angularjs": "latest",
