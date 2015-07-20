@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>VideoHub</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="js/libs/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/logo-nav.css" rel="stylesheet">
+
+    <!-- Sidebar CSS -->
+    <link href="css/sidebar.css" rel="stylesheet">
+
+    <!-- Main CSS -->
+    <link href="css/main.css" rel="stylesheet">
+
+</head>
+
+<body ng-app="VideoHubApp">
+
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <a class="navbar-brand" href="#">
+        <img src="img/logo.png" alt="">
+    </a>
+
+    <div class="container">
+
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse"
+                    data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li>
+                    <a href="#">About</a>
+                </li>
+                <li>
+                    <a href="#">Services</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+<div id="wrapper" ng-controller="mainCtrl">
+    <!-- Sidebar -->
+    <div id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+            <li>
+                <a id="menu-toggle" class="sidebar-brand" href="#" ng-click="toggleMenu()">
+                    <img id="sidebar-logo-small" src="img/logo-black.png" alt="">
+                </a>
+            </li>
+            <li>
+                <a href="#">Dashboard</a>
+            </li>
+            <li>
+                <a href="#">Shortcuts</a>
+            </li>
+            <li>
+                <a href="#">Overview</a>
+            </li>
+            <li>
+                <a href="#">Events</a>
+            </li>
+            <li>
+                <a href="#">About</a>
+            </li>
+            <li>
+                <a href="#">Services</a>
+            </li>
+            <li>
+                <a href="#">Contact</a>
+            </li>
+        </ul>
+    </div>
+
+    <!-- Page Content -->
+    <div id="page-content-wrapper">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="alert alert-danger" ng-show="authenticationError"
+                     ng-bind-html="authenticationError.data"></div>
+                <div class="col-lg-4">
+                    <form class="well" name="authForm" novalidate>
+                        <div class="form-group">
+                            <label>Nazwa kategorii</label>
+                            <input name="category" class="form-control" ng-model="form.name" required/>
+                        </div>
+                        <div class="text-center">
+                            <button ng-click="addCategory(form.name)" ng-disabled="authForm.$invalid"
+                                    class="btn btn-primary">
+                                Dodaj kategorie
+                            </button>
+                        </div>
+                    </form>
+                </div>
+                <div class="col-lg-8">
+                    <div class="well text-center" style="padding-left: 20px; padding-top: 10px;"
+                         ng-repeat="category in categories">
+                        Category name: {{category.name}}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /.container -->
+</div>
+
+<!-- jQuery -->
+<script src="js/libs/jquery/dist/jquery.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="js/libs/bootstrap/dist/js/bootstrap.min.js"></script>
+
+<!-- AngularJS Core-->
+<script src="js/libs/angularjs/angular.js"></script>
+
+<!-- Custom Angular files -->
+<script src="js/app.js"></script>
+<script src="js/services/categoryService.js"></script>
+
+</body>
+
+</html>
