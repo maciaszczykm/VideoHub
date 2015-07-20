@@ -1,0 +1,25 @@
+# Ignore user-specific configuration files
+database/db.cfg
+
+# Ignore output files
+target/*
+bin/*
+build/*
+classes/*
+
+# Ignore Bower components
+src/main/resources/static/bower_components/*
+
+# Ignore IntelliJ files
+.idea/*
+*.iml
+
+# Ignore Eclipse files
+.settings/*
+.target
+.project
+.cproject
+.metadata
+.classpath
+.buildpath
+.factorypath

@@ -1,0 +1,32 @@
+{
+  "name": "VideoHub",
+  "version": "0.0.1",
+  "description": "Video-sharing webservice",
+  "authors": [
+    "Marcin Maciaszczyk",
+    "Sebastian Florek"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/maciaszczykm/VideoHub",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src/main/webapp/js/libs"
+  ],
+  "dependencies": {
+    "angularjs": "latest",
+    "bootstrap": "latest",
+    "videogular": "latest",
+    "videogular-themes-default": "latest",
+    "videogular-controls": "latest",
+    "videogular-buffering": "latest",
+    "videogular-overlay-play": "latest",
+    "videogular-poster": "latest",
+    "videogular-ima-ads": "latest",
+    "videogular-angulartics": "latest",
+    "angular-sanitize": "latest"
+  }
+}
