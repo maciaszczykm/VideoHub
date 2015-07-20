@@ -24,12 +24,10 @@
     <build>
         <resources>
             <resource>
-                <directory>${project.basedir}/src/main/resources</directory>
-            </resource>
-            <resource>
-                <directory>${project.build.directory}/generated-resources</directory>
+                <directory>${videohub.basedir}/src/main/resources</directory>
             </resource>
         </resources>
+        <directory>../target</directory>
         <plugins>
             <plugin>
                 <groupId>org.zeroturnaround</groupId>

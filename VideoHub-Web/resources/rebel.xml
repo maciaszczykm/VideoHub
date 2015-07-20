@@ -3,7 +3,7 @@
 
 	<web>
 		<link target="/">
-			<dir name="${videohub.basedir}/VideoHub-Web/src/main/webapp">
+			<dir name="${videohub.basedir}/VideoHub-Web/webapp">
 			</dir>
 		</link>
 	</web>
