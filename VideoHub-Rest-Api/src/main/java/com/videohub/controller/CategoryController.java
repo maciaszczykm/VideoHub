@@ -42,11 +42,6 @@ public class CategoryController {
         this.categoryService = categoryService;
     }
 
-    @RequestMapping(value = "/test2", method = RequestMethod.GET)
-    public Object getHello() {
-        return "{JSON}";
-    }
-
     @RequestMapping(method = RequestMethod.GET)
     public List<Category> getAllCategories() {
         return categoryService.getCategories();
