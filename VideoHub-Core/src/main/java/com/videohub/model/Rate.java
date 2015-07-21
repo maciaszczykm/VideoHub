@@ -20,7 +20,7 @@ import java.util.Date;
 
 public class Rate {
 
-    privatef Long id = null;
+    private Long id = null;
     private Boolean rate = null;
     private User author = null;
     private Multimedia multimedia = null;
