@@ -12,8 +12,8 @@
 
     <modules>
         <module>VideoHub-Core</module>
-        <module>VideoHub-Web</module>
         <module>VideoHub-Rest-Api</module>
+        <module>VideoHub-Web</module>
     </modules>
 
     <developers>
