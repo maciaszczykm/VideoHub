@@ -40,7 +40,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <videohub.basedir>${project.basedir}</videohub.basedir>
-        <videohub.version>${version}</videohub.version>
+        <videohub.version>${project.version}</videohub.version>
     </properties>
 
     <build>
