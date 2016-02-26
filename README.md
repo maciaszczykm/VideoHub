@@ -5,8 +5,8 @@
 ## Information and status
 VideoHub is a video-sharing webservice.
 
-[![GitHub version](https://badge.fury.io/gh/maciaszczykm%2FVideoHub.svg)](http://badge.fury.io/gh/maciaszczykm%2FVideoHub)
-[![Build Status](https://travis-ci.org/maciaszczykm/VideoHub.svg?branch=master)](https://travis-ci.org/maciaszczykm/VideoHub)
+<!--[![GitHub version](https://badge.fury.io/gh/maciaszczykm%2FVideoHub.svg)](http://badge.fury.io/gh/maciaszczykm%2FVideoHub)
+[![Build Status](https://travis-ci.org/maciaszczykm/VideoHub.svg?branch=master)](https://travis-ci.org/maciaszczykm/VideoHub)-->
 
 ## Workspace preparation
 Step by step instruction how to get your workspace ready to work:
