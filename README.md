@@ -1,34 +1,25 @@
-![VideoHub](http://i.imgur.com/4Rcmqxn.png)
-
-***
-
-## Information and status
+# ![VideoHub](http://i.imgur.com/4Rcmqxn.png)
 VideoHub is a video-sharing webservice.
 
+## Current status
 [![Build Status](https://travis-ci.org/maciaszczykm/videohub.svg?branch=master)](https://travis-ci.org/maciaszczykm/videohub)
 
-## Workspace preparation
-Step by step instruction how to get your workspace ready to work:
-
+## Workspace setup
 1. Checkout project from GitHub.
 2. Update Bower dependencies.
 3. Import Maven project into your IDE.
 4. To configure JRebel add `videohub.basedir` property to your JVM options. It should point at VideoHub base directory.
 For example `-Dvideohub.basedir=D:\Workspace\VideoHub`.
-5. Proceed to server configuration.
+5. Proceed to server setup.
 
-## Server configuration
-We are using WildFly server, here is short information how to set it up:
-
+## Server setup
 1. Download and install newest version of WildFly server from http://wildfly.org/.
 2. Configure server in your IDE as JBoss server. It's important to name artifact, which will be deployed `ROOT.war`.
 You should use exploded artifact to override WildFly default welcome content. You should also verify if 
 `<wildfly_home>/standalone/configuration/standalone.xml` does contain valid deployments configuration.
-3. Proceed to database configuration.
+3. Proceed to database setup.
 
-## Database configuration
-We are using MongoDB database, here is short information how to set it up:
-
+## Database setup
 1. Download and install latest version of MongoDB from https://www.mongodb.org/.
 2. Create new directory, which will be used as database location. For example `D:\Workspace\Databases\VideoHub`.
 3. Go into `VideoHub\database` directory and create copy of `db.cfg.sample` file named `db.cfg`. Update `system.dbPath`
