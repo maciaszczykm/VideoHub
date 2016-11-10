@@ -1,5 +1,5 @@
 # ![VideoHub](http://i.imgur.com/4Rcmqxn.png)
-Video-sharing webservice.
+Video sharing webservice.
 
 ## Current status
 [![Build Status](https://travis-ci.org/maciaszczykm/videohub.svg?branch=master)](https://travis-ci.org/maciaszczykm/videohub)
